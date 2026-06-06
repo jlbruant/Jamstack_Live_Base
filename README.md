@@ -13,6 +13,6 @@ Le fichier html généré peut être lu par un navigateur
 
 Quelle utilisation pour cette génération de pages statiques ?
 
-- Générer un intranet de secours dans une entreprise avec le contenu de la base de données en cas de panne de la base de données ou de l'application utilisant la base de données.
+- Générer un intranet dans une entreprise avec le contenu de la base de données en cas de panne de celle-ci ou de l'application, permettant de fournir les données de la base à travers une procédure dégradée (exemple: fournir des données patients pour assurer les soins)
 
 Si vous avez, vous aussi utilisé cette possibilité, merci de me le faire connaitre je mettrai ici plus d'informations sur le sujet
